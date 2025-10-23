@@ -134,7 +134,7 @@ Each filter uses combinations of:
 
 ---
 
-## 🌈 Credits
+## Credits
 
 Made with Python, OpenCV, and unhealthy amounts of caffeine.
 Inspired by the film LUT aesthetics and classic digital color grading styles.
